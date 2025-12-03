@@ -1,5 +1,5 @@
-# RP2040-Mouse
-Transforme a placa BitDogLab em um mouse funcional
+# RP2040-Mouse 🖱️
+Transforme a sua placa **[BitDogLab](https://github.com/BitDogLab/BitDogLab)** em um mouse funcional
 
 ## Instuções de Instalação
 
